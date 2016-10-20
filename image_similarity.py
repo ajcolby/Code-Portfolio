@@ -1,7 +1,7 @@
 import cv2 
 import numpy as np 
 from skimage.measure import structural_similarity as ssim
-#import picamera
+import picamera
 import warnings
 from matplotlib import pyplot as plot 
 
