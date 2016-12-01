@@ -5,7 +5,7 @@ import multiprocessing
 import picamera
 from joblib import Parallel, delayed
 
-# start clock 
+# start clock / time test for speed
 start_time = time.time()
 
 #############################################################################
